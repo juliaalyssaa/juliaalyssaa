@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @juliaalyssaa
 - 👀 I’m interested in bioinformatics and genetics
 - 🌱 I’m currently learning how to use Github
-- 📫 How to reach me ... email: jam181@usnh.edu
+- 📫 How to reach me ... email: jam1281@usnh.edu
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... I am a classical trumpet player!
 
